@@ -161,3 +161,4 @@ source_parsers = {
 }
 
 source_suffix = ['.rst', '.md']
+html_show_sourcelink = False
